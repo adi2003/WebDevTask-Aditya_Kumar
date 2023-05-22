@@ -1,0 +1,467 @@
+body {
+    height: 100vh;
+    width: 100vw;
+    border-radius: 0px;
+    background: #FFFFFF;
+  }
+  
+  /* RANKING */
+  .rank1 {
+    position: absolute;
+    width: 1.75%;
+    height: 3vh;
+    left: 49.36%;
+    top: 10%;
+    border-radius: 60%;
+    font-size: 2.3vh;
+    color: #FFFFFF;
+    text-align: center;
+    background: #BABEFF;
+  }
+  
+  .rank2 {
+    position: absolute;
+    width: 1.75%;
+    height: 3vh;
+    left: 29%;
+    top: 15vh;
+    border-radius: 60%;
+    font-size: 2.3vh;
+    color: #FFFFFF;
+    text-align: center;
+    background: #BABEFF;
+  }
+  
+  .rank3 {
+    position: absolute;
+    width: 1.75%;
+    height: 3vh;
+    left: 69.8%;
+    top: 15vh;
+    border-radius: 60%;
+    font-size: 2.3vh;
+    color: #FFFFFF;
+    text-align: center;
+    background: #BABEFF;
+  }
+  
+  .rank4 {
+    position: absolute;
+    width: 1.6%;
+    height: 3.5vh;
+    left: 2.8%;
+    top: 49vh;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 4vh;
+    line-height: 3.05vh;
+    color: #1E1E1E;
+  }
+  
+  .rank5 {
+    position: absolute;
+    width: 1.6%;
+    height: 3.5vh;
+    left: 2.8%;
+    top: 60.4vh;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 4vh;
+    line-height: 3.05vh;
+    color: #1E1E1E;
+  }
+  
+  .rank6 {
+    position: absolute;
+    width: 1.6%;
+    height: 3.5vh;
+    left: 2.8%;
+    top: 72vh;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 4vh;
+    line-height: 3.05vh;
+    color: #1E1E1E;
+  }
+  
+  .rank7 {
+    position: absolute;
+    width: 1.6%;
+    height: 3.5vh;
+    left: 2.8%;
+    top: 83.4vh;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 4vh;
+    line-height: 3.05vh;
+    color: #1E1E1E;
+  }
+  
+  .rank8 {
+    position: absolute;
+    width: 1.6%;
+    height: 3.5vh;
+    left: 2.8%;
+    top: 95vh;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 4vh;
+    line-height: 3.05vh;
+    color: #1E1E1E;
+  }
+  
+  /* NAMES */
+  #rank4name{
+    
+        position: absolute;
+        width: 15.8%;
+        height: 3.5vh;
+        left: 17.7%;
+        top:50.5vh;
+        font-size: 3.8vh;
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        line-height: 3.05vh;
+        color: #1E1E1E;
+      
+  }
+  #rank5name{
+    
+        position: absolute;
+        width: 15.8%;
+        height: 3.5vh;
+        left: 17.7%;
+        top:62.5%;
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 3.8vh;
+        line-height: 3.05vh;
+        color: #1E1E1E;
+      
+  }
+  #rank6name{
+    
+        position: absolute;
+        width: 15.8%;
+        height: 3.5vh;
+        left: 17.7%;
+        top:73.5%;
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 3.8vh;
+        line-height: 3.05vh;
+        color: #1E1E1E;
+      
+  }
+  #rank7name{
+    
+        position: absolute;
+        width: 15.8%;
+        height: 3.5vh;
+        left: 17.7%;
+        top:84.5%;
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 3.8vh;
+        line-height: 3.05vh;
+        color: #1E1E1E;
+      
+  }
+  #rank8name {
+    position: absolute;
+    width: 15.8%;
+    height: 3.5vh;
+    left: 17.7%;
+    top:95.5%;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 3.8vh;
+    line-height: 3.05vh;
+    color: #1E1E1E;
+  }
+  
+  /* POINTS */
+  #rank4points{
+        position: absolute;
+        width: 15.76%;
+        height: 3.5vh;
+        left: 78%;
+        top:50.5vh;
+        font-size: 4.3vh;
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        
+        line-height: 3.05vh;
+        color: #000000;
+      
+  }
+  #rank5points{
+        position: absolute;
+        width: 15.76%;
+        height: 3.5vh;
+        left: 77.99%;
+        top:61.5vh;
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 4.3vh;
+        line-height: 3.05vh;
+        color: #000000;
+      
+  }
+  #rank6points{
+        position: absolute;
+        width: 15.76%;
+        height: 3.5vh;
+        left: 77.99%;
+        top:72.5vh;
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 4.3vh;
+        line-height: 3.05vh;
+        color: #000000;
+      
+  }
+  #rank7points{
+    
+        position: absolute;
+        width: 15.76%;
+        height: 3.5vh;
+        left: 77.99%;
+        top:83.5vh;
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 4.3vh;
+        line-height: 3.05vh;
+        color: #000000;
+      
+  }
+  #rank8points {
+    position: absolute;
+    width: 15.76%;
+    height: 3.5vh;
+    left: 77.99%;
+    top:94.5vh;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 4.3vh;
+    line-height: 3.05vh;
+    color: #000000;
+  }
+  
+  /* HEADING */
+  .head {
+    position: absolute;
+    width: 25.14%;
+    height: 20vh;
+    left: 37.43%;
+    top: 3vh;
+    font-family: 'Segoe UI';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 7vh;
+    line-height: 4.53vh;
+    color: #FFFFFF;
+  }
+  
+  /* MAIN AVATARS */
+  .avatar1 {
+    position: absolute;
+    width: 13.86%;
+    height: 23.45vh;
+    left: 43.36%;
+    top: 13vh;
+    border-radius: 60%;
+    background: #BABEFF;
+  }
+  
+  .avatar2 {
+    position: absolute;
+    width: 10.42%;
+    height: 17.84vh;
+    left: 24.89%;
+    top: 19vh;
+    border-radius: 60%;
+    background: #BABEFF;
+  }
+  
+  .avatar3 {
+    position: absolute;
+    width: 10.42%;
+    height: 17.84vh;
+    left: 65.44%;
+    top: 19vh;
+    border-radius: 60%;
+    background: #BABEFF;
+  }
+  
+  /* OTHER PARTICIPANT AVATARS */
+  .avatar1dash {
+    position: absolute;
+    width: 4.2vw;
+    height: 7.5vh;
+    border-color: #FFFFFF;
+    left: 8.87%;
+    top: 47.5vh;
+    background: #BABEFF;
+    border-radius: 60%;
+  }
+  
+  .avatar2dash {
+    position: absolute;
+    width: 4.2vw;
+    height: 7.5vh;
+    border-color: #FFFFFF;
+    left: 8.87%;
+    top: 58.5vh;
+    background: #BABEFF;
+    border-radius: 60%;
+  }
+  
+  .avatar3dash {
+    position: absolute;
+    width: 4.2vw;
+    height: 7.5vh;
+    border-color: #FFFFFF;
+    left: 8.87%;
+    top: 69.5vh;
+    background: #BABEFF; 
+    border-radius: 60%;
+  }
+  
+  .avatar4dash {
+    position: absolute;
+    width: 4.2vw;
+    height: 7.5vh;
+    border-color: #FFFFFF;
+    left: 8.87%;
+    top: 80.5vh;
+    background: #BABEFF;
+    border-radius: 60%;
+  }
+  
+  .avatar5dash {
+    position: absolute;
+    width: 4.2vw;
+    height: 7.5vh;
+    border-color: #FFFFFF;
+    left: 8.87%;
+    top: 91.5vh;
+    background: #BABEFF;
+    border-radius: 60%;
+  }
+  
+  /* TOP PARTICIPANT BOXES */
+  #boxsecond{
+    position: absolute;
+    width: 14%;
+    height: 3.5vh;
+    left:23%;
+    top:38vh;
+    text-align: center;
+    color: #FFFFFF;
+    font-size: 3vh;
+    font-family: "Inter";
+    padding-top: 0.39vh;
+    background: #BABEFF;
+    border-radius: 16px;
+  }
+  #boxfirst{
+        position: absolute;
+        width: 15%;
+        height: 3.5vh;
+        left:43%;
+        top:38vh;
+        text-align: center;
+        color: #FFFFFF;
+        font-size: 3.2vh;
+        font-family: "Inter";
+        padding-top: 0.39vh;
+        background: #BABEFF;
+        border-radius: 16px;
+      }
+  
+  #boxthird {
+    position: absolute;
+    width: 14%;
+    height: 4vh;
+    left:63.5%;
+    top:38vh;
+    text-align: center;
+    color: #FFFFFF;
+    font-size: 3vh;
+    font-family: "Inter";
+    padding-top: 0.39vh;
+    background: #BABEFF;
+    border-radius: 16px;
+  }
+  
+  /* PARTICIPANT BOXES */
+  .box0 {
+    position: absolute;
+    width: 100vw;
+    height: 50vh;
+    top:-5vh;
+    background: #656CEC;
+    border-radius: 64px;
+  }
+  
+  .box1{
+    
+        position: absolute;
+        width: 100%;
+        height: 9vh;
+        top:47vh;
+        background: #D2D4F2;
+    
+    
+  }
+  .box2{
+    
+        position: absolute;
+        width: 100%;
+        height: 9vh;
+        top:58vh;
+        background: #D2D4F2;
+      }
+  
+  .box3{
+    
+        position: absolute;
+        width: 100%;
+        height: 9vh;
+        top:69vh;
+        background: #D2D4F2;
+      }
+  
+  .box4{
+    
+        position: absolute;
+        width: 100%;
+        height:9vh;
+        top:80vh;
+        background: #D2D4F2;
+      }
+  
+  .box5 {
+    position: absolute;
+    width: 100%;
+    height: 9vh;
+    top:91vh;
+    background: #D2D4F2;
+  }
+  
